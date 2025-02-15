@@ -1,0 +1,10 @@
+Dealer,Product,Region,Inventory_Level,Consumption_Pattern,Stock_Movement,Risk_Level,Stockout_Risk,Seasonality,Alert
+Dealer_C,Product_Z,South,812,56,normal,high,FALSE,high_demand,TRUE
+Dealer_C,Product_Z,South,73,69,drop,low,FALSE,steady,FALSE
+Dealer_D,Product_W,South,308,98,spike,medium,TRUE,steady,TRUE
+Dealer_D,Product_W,Central,496,4,spike,low,FALSE,steady,TRUE
+Dealer_B,Product_X,Central,227,90,normal,low,FALSE,steady,TRUE
+Dealer_B,Product_Z,West,452,90,spike,high,TRUE,high_demand,FALSE
+Dealer_C,Product_W,East,491,18,normal,medium,FALSE,steady,FALSE
+Dealer_C,Product_Y,North,447,1,drop,high,FALSE,high_demand,TRUE
+Dealer_A,Product_Z,East,214,136,normal,medium,TRUE,high_demand,TRUE

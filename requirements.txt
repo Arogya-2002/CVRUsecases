@@ -1,0 +1,9 @@
+scikit-learn
+matplotlib
+ipykernel
+pandas
+seaborn
+unidecode
+catboost
+xgboost
+streamlit
